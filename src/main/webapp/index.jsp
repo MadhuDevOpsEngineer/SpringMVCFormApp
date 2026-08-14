@@ -1,6 +1,6 @@
 <html>
 <body>
-	<h2>Thank you for attending LCT training on Jenkins. this is dev deployment</h2>
+	<h2>Thank you for attending LCT training on Jenkins. this is prod deployment</h2>
 
 
 	<a href="displayForm.htm">Registration Form</a>
